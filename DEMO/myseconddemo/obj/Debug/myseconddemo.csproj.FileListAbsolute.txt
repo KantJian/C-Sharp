@@ -1,0 +1,7 @@
+D:\C#练习2021-8-13\DEMO\myseconddemo\bin\Debug\myseconddemo.exe.config
+D:\C#练习2021-8-13\DEMO\myseconddemo\bin\Debug\myseconddemo.exe
+D:\C#练习2021-8-13\DEMO\myseconddemo\bin\Debug\myseconddemo.pdb
+D:\C#练习2021-8-13\DEMO\myseconddemo\obj\Debug\myseconddemo.csproj.AssemblyReference.cache
+D:\C#练习2021-8-13\DEMO\myseconddemo\obj\Debug\myseconddemo.csproj.CoreCompileInputs.cache
+D:\C#练习2021-8-13\DEMO\myseconddemo\obj\Debug\myseconddemo.exe
+D:\C#练习2021-8-13\DEMO\myseconddemo\obj\Debug\myseconddemo.pdb
