@@ -1,0 +1,14 @@
+D:\C#练习2021-8-13\飞行棋\a_游戏头\bin\Debug\a_游戏头.exe.config
+D:\C#练习2021-8-13\飞行棋\a_游戏头\bin\Debug\a_游戏头.exe
+D:\C#练习2021-8-13\飞行棋\a_游戏头\bin\Debug\a_游戏头.pdb
+D:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.csproj.AssemblyReference.cache
+D:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.csproj.CoreCompileInputs.cache
+D:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.exe
+D:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.pdb
+E:\C#练习2021-8-13\飞行棋\a_游戏头\bin\Debug\a_游戏头.exe.config
+E:\C#练习2021-8-13\飞行棋\a_游戏头\bin\Debug\a_游戏头.exe
+E:\C#练习2021-8-13\飞行棋\a_游戏头\bin\Debug\a_游戏头.pdb
+E:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.csproj.AssemblyReference.cache
+E:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.csproj.CoreCompileInputs.cache
+E:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.exe
+E:\C#练习2021-8-13\飞行棋\a_游戏头\obj\Debug\a_游戏头.pdb
