@@ -1,0 +1,7 @@
+D:\C#练习2021-8-13\Basic_general_review\a_面向对象复习\bin\Debug\a_面向对象复习.exe.config
+D:\C#练习2021-8-13\Basic_general_review\a_面向对象复习\bin\Debug\a_面向对象复习.exe
+D:\C#练习2021-8-13\Basic_general_review\a_面向对象复习\bin\Debug\a_面向对象复习.pdb
+D:\C#练习2021-8-13\Basic_general_review\a_面向对象复习\obj\Debug\a_面向对象复习.csproj.AssemblyReference.cache
+D:\C#练习2021-8-13\Basic_general_review\a_面向对象复习\obj\Debug\a_面向对象复习.csproj.CoreCompileInputs.cache
+D:\C#练习2021-8-13\Basic_general_review\a_面向对象复习\obj\Debug\a_面向对象复习.exe
+D:\C#练习2021-8-13\Basic_general_review\a_面向对象复习\obj\Debug\a_面向对象复习.pdb
